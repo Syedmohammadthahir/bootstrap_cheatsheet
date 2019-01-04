@@ -1,0 +1,107 @@
+									
+
+									Creative Connect BootStrap Cheat Sheet
+
+
+Breakpoints
+Extra small < 544px
+Small ≥ 544px
+Medium ≥ 768px
+Large ≥ 992px
+Extra large ≥ 1200px
+
+
+Typography
+.text-left Left aligned text
+.text-center Center aligned text
+.text-right Right aligned text
+.text-justify Justified text
+.text-nowrap No wrap text
+.text-lowercause Lowercase text
+.text-uppercase Uppercase text
+.text-capitalize Capitalized text
+.lead Good for first paragraph of article
+
+
+Blockquote
+<blockquote class="blockquote">
+<p class="m-b-0">Lorem ipsum dolor sit
+amet, consectetur adipiscing elit. Integer
+posuere erat a ante.</p>
+</blockquote>
+
+Headings
+<h1>h1. Bootstrap heading <small>Secondary
+text</small></h1>
+<p class="h1">Paragraph that looks like
+heading</p>
+
+
+Colors
+.text-muted
+.text-primary
+.text-success
+.text-info
+.text-warning
+.text-danger
+
+
+Lists
+.list-unstyled Removes default list margin
+.list-inline Makes list items inline
+.dl-horizontal Makes list items two columns
+
+
+Images
+.img-fluid Make an image responsive
+.img-rounded Adds rounded corners to image
+.img-circle Crops image to be circle
+.img-thumbnail Adds rounded corner + border
+
+
+Floats
+.pull-left - Floats item left
+.pull-right-  Floats item right
+.center-block - Set an elemennt to block with
+auto left and right margin
+.clearfix -  Clear floats by
+
+
+
+
+
+------------colors classes----
+
+bg-primary
+bg-secondary
+bg-success
+bg-info
+bg-warning
+bg-danger
+bg-light
+bg-dark
+bg-white
+text-primary
+text-secondary
+text-success
+text-info
+text-warning
+text-danger
+text-light
+text-dark
+text-white
+
+
+Navs
+
+ul.nav  
+nav.nav
+nav justify-content-*
+nav flex-column
+nav-tabs
+nav-pills
+nav-fill
+nav-justified
+nav with flex utils
+nav-tabs with dropdown
+nav-pills with dropdown
